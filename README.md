@@ -3,5 +3,4 @@ Notes for [The Ultimate Hands-On Hadoop: Tame your Big Data!](https://www.udemy.
 
 The [Markdown Notes](Markdown%20Notes/Udemy%20Big%20Data.md)
 
-The [HTML Notes](HTML%20Notes/index.html)
-# Cannot display due to excess of file size limit
+The [HTML Notes](HTML%20Notes/index.html) (Cannot display due to excess of file size limit)
